@@ -1,0 +1,6 @@
+[
+  {"id":1, "name":"shoes", "base_price":50, "description":"Nice Shoes"},
+  {"id":2, "name":"socks", "base_price":50, "description":"Nice Shoes"},
+  {"id":3, "name":"sockss", "base_price":50, "description":"Nice Socks"},
+  {"id":4, "name":"sockss", "base_price":50, "description":"Nice Socks"}
+]
